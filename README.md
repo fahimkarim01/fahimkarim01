@@ -119,12 +119,20 @@ CNN-based detection of Alzheimer's Disease from medical imaging.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimkarim01&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimkarim01&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages"/>
-</p>
+**Top Languages & Contributions**
+
+- 🐍 **Python** — ML/AI projects (TensorFlow, PyTorch, OpenCV)
+- 📘 **TypeScript** — Full-stack web apps (Next.js, React, Supabase)
+- 💻 **C#** — Backend systems (ASP.NET Core)
+- ☕ **Java & C++** — Competitive programming & systems design
+
+**Recent Highlights**
+- Open-source contributor: Gaia Skill Tree (PR #859, merged June 2026)
+- Active in Computer Vision research & medical image analysis
+- Building privacy-first, accessibility-focused applications
+- Contributor to Bengali-language AI tools for underserved communities
 
 ---
 
