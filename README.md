@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Md. Fahim Karim 👋</h1>
-<h3 align="center">Computer Vision & HCI Researcher | Building AI for Real-World Challenges | Edge AI • LLMs</h3>
+<h3 align="center">Computer Vision & HCI Researcher | Open Source Contributor | Building AI for Real-World Challenges</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+helpmeAI+%E2%80%94+On-Device+AI+for+Personal+Safety;1st+Author+%40+IEEE+TENCON+2026;Computer+Vision+%7C+HCI+%7C+Accessibility+%7C+Edge+AI;Open+to+Research+Collaborations+%26+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Building+helpmeAI+%E2%80%94+On-Device+AI+for+Personal+Safety;1st+Author+%40+IEEE+TENCON+2026;Computer+Vision+%7C+HCI+%7C+Accessibility+%7C+Open+Source;Edge+AI+%7C+LLMs+%7C+Real-World+Problems;Open+to+Research+Collaborations+%26+Internships" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -122,12 +122,8 @@ CNN-based detection of Alzheimer's Disease from medical imaging.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimkarim01&show_icons=true&theme=default&hide_border=true" alt="Fahim's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimkarim01&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimkarim01&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimkarim01&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimkarim01&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
