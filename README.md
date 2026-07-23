@@ -54,13 +54,13 @@ Centralized blood donor discovery platform for Bangladesh, replacing reliance on
 </td>
 <td width="50%">
 
-**👁️ ReviewEase AI — Accessible Review Summarizer**
+**👁️ [ReviewEase AI — Accessible Review Summarizer](https://github.com/fahimkarim01/reviewease-ai)**
 Accessibility-first platform turning lengthy product reviews into structured, multilingual (EN/Bangla/Hindi) aspect-based summaries for blind and visually impaired users. Fully screen-reader compatible (NVDA, JAWS, TalkBack, VoiceOver).
 `Next.js` `React` `TypeScript` `Llama 3.3 70B (Groq)` `Web Speech API`
 
-**🧠 [Alzheimer's Disease Detection (CNN)](https://github.com/fahimkarim01/AlzheimerDiseaseDetectionCNN)**
-CNN-based detection of Alzheimer's Disease from medical imaging.
-`Python` `Jupyter Notebook`
+**🧠 [Alzheimer's Disease Detection (CNN)](https://github.com/fahimkarim01/alzheimer-detection-cnn)**
+CNN-based detection of Alzheimer's Disease from EEG signals using convolutional neural networks.
+`Python` `TensorFlow` `Jupyter Notebook`
 
 </td>
 </tr>
