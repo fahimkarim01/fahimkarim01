@@ -51,6 +51,10 @@ Open-source Bengali-language fraud detection system for phone calls & SMS — pr
 Centralized blood donor discovery platform for Bangladesh, replacing reliance on Facebook posts during emergencies. Privacy-first auth: donor numbers protected, emergency requests publicly searchable.
 `Next.js 16` `React 19` `TypeScript` `Supabase` `PostgreSQL`
 
+**🚨 [Emergency Support System](https://github.com/fahimkarim01/emergency-support-system)**
+Web application for managing emergency requests, responders, assignments, notifications, feedback, and activity logs. Includes ASP.NET Core MVC site and Web API for CRUD operations.
+`ASP.NET Core 8` `Entity Framework Core` `SQL Server` `Razor Views`
+
 </td>
 <td width="50%">
 
