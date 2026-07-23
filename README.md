@@ -16,7 +16,7 @@
 ### 🎯 About Me
 
 - 🎓 Final-year **B.Sc. in Computer Science & Engineering** student at **American International University–Bangladesh (AIUB)** — CGPA **3.93/4.00**, graduating August 2026
-- 🏆 **Dean's List / Dean's Honorable Mention** — Faculty of Science and Technology, three consecutive semesters
+- 🏆 **Dean's List / Dean's Honorable Mention** — Faculty of Science and Technology, 5 consecutive semesters
 - 🔬 Research focus: **Computer Vision, Human-Computer Interaction (HCI), Accessibility, Edge AI, and Large Language Models**
 - 🚀 Founder of **helpmeAI** — a privacy-first personal safety platform combining on-device AI, Edge AI, and LLMs for emergency detection and rapid response
 - 📄 1st author on a paper **accepted at IEEE TENCON 2026** (Bali) and another **submitted to ICCA 2026**
